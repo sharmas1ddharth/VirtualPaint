@@ -1,1 +1,1 @@
-# VirtualPaint
+# VirtualPaint OpenCV
